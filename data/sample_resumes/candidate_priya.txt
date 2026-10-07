@@ -1,0 +1,16 @@
+PRIYA REDDY
+Email: priya@example.com
+
+SUMMARY
+Data-oriented Computer Science graduate with experience in machine learning and analytics.
+
+SKILLS
+Python, Machine Learning, Pandas, NumPy, SQL, Power BI, Excel, Statistics
+
+EDUCATION
+B.Tech Computer Science Engineering
+
+PROJECTS
+Built a machine learning classification model in Python.
+Performed data cleaning and analysis using Pandas and NumPy.
+Created analytical dashboards.

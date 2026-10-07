@@ -1,0 +1,15 @@
+ARJUN RAO
+Email: arjun@example.com
+
+SUMMARY
+Computer Science graduate with a focus on Java and basic web development.
+
+SKILLS
+Java, HTML, CSS, JavaScript, MySQL, Git
+
+EDUCATION
+B.Tech Computer Science Engineering
+
+PROJECTS
+Developed a Java web application with MySQL.
+Created frontend pages using HTML, CSS and JavaScript.

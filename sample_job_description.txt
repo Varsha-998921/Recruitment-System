@@ -1,0 +1,12 @@
+Python Developer
+
+We are looking for a Python Developer with strong programming and software development skills.
+
+Required skills:
+Python, SQL, Machine Learning, Pandas, NumPy, Git, HTML, CSS, Flask or Streamlit.
+
+Responsibilities:
+Develop Python applications, work with databases, clean and analyze data, build machine learning solutions, maintain code using Git, and collaborate with a development team.
+
+Qualification:
+B.Tech or B.Sc in Computer Science or related field. Freshers with strong academic projects are welcome.

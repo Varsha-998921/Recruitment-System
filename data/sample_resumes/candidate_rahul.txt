@@ -1,0 +1,16 @@
+RAHUL KUMAR
+Email: rahul@example.com
+
+SUMMARY
+Computer Science student interested in web development and Python programming.
+
+SKILLS
+Python, SQL, HTML, CSS, Git, JavaScript, Flask, Streamlit, Pandas
+
+EDUCATION
+B.Tech Computer Science Engineering
+
+PROJECTS
+Developed a Python web application using Flask and SQL.
+Created responsive HTML and CSS pages.
+Used Git for project version control.

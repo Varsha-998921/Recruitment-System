@@ -1,0 +1,19 @@
+ANANYA SHARMA
+Email: ananya@example.com
+
+SUMMARY
+Computer Science graduate with hands-on experience in Python, SQL, machine learning and data analysis.
+
+SKILLS
+Python, SQL, Machine Learning, Pandas, NumPy, Git, HTML, CSS, Streamlit, Flask, Java
+
+EDUCATION
+B.Tech Computer Science Engineering
+
+PROJECTS
+Customer churn prediction using Python, Pandas, SQL and machine learning.
+Built a Streamlit dashboard and used Git for version control.
+
+EXPERIENCE
+Software Development Intern - 6 months
+Worked on Python applications and SQL databases.
